@@ -43,6 +43,7 @@ namespace kalkulator
                 default:
                     Console.WriteLine("Hibás művelet");
                     break;
+
             }
 
             
